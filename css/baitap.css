@@ -1,3 +1,9 @@
+.all{
+   .all{
+  width: 980px;
+  margin: 0 auto;
+} 
+}
 #header {
     border: 2px solid black;
   background-color: #666;
@@ -6,14 +12,14 @@
   font-size: 15px ;
   /*display: flex;*/
   /*tách hai bên*/
-  justify-content: space-around;
+
 }
 .basic  {
 
     display: flex;
     list-style: none;
     margin: 0;
-   padding-left: 450PX ;
+ 
    
 }
 .basic a{
